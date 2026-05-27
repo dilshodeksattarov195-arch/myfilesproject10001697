@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervalidate",
+        "uuid": 2514954,
+        "checksum": "zhj044"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
